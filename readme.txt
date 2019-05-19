@@ -1,4 +1,2 @@
-我的学习-修改
-
-1.SQL
-2.Python
+1.SQL学习
+2.Python学习
