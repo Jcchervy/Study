@@ -1,2 +1,2 @@
-1.SQLѧϰ
-2.Pythonѧϰ
+﻿1.SQL学习
+2.Python学习
