@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f1c73694-1644-446c-91b2-c327bcda9e21" name="默认的" comment="python学习笔记">
+      <change beforePath="$PROJECT_DIR$/study/.ipynb_checkpoints/01-python概述-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/.ipynb_checkpoints/02.变量-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/.ipynb_checkpoints/02.变量、表达式和运算符-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/.ipynb_checkpoints/03.表达式和运算符-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/.ipynb_checkpoints/04.程序结构-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/.ipynb_checkpoints/05.函数-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/.ipynb_checkpoints/06.内建结构listdictset-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/01-python概述.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/02.变量.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/03.表达式和运算符.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/04.程序结构.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/05.函数.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/06.内建结构listdictset.ipynb" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/practice/01.python基础练习" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-21" />
+    <option name="y" value="48" />
+    <option name="width" value="1890" />
+    <option name="height" value="960" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Jcchervy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Jcchervy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Jcchervy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Jcchervy" type="462c0819:PsiDirectoryNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Python" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="01.python基础练习" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Jcchervy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/01.python基础练习" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.01.python基础练习" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1c73694-1644-446c-91b2-c327bcda9e21" name="默认的" comment="" />
+      <created>1558242400484</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558242400484</updated>
+      <workItem from="1558242410170" duration="98000" />
+      <workItem from="1558242561623" duration="209000" />
+      <workItem from="1558243141289" duration="461000" />
+      <workItem from="1558254837503" duration="49000" />
+      <workItem from="1558269676672" duration="72000" />
+      <workItem from="1558311071843" duration="98000" />
+      <workItem from="1558311387017" duration="18000" />
+      <workItem from="1558311458440" duration="64000" />
+      <workItem from="1558311597127" duration="80000" />
+      <workItem from="1558364516356" duration="79000" />
+      <workItem from="1558452577886" duration="142000" />
+      <workItem from="1558478171292" duration="133000" />
+      <workItem from="1558478754623" duration="54000" />
+      <workItem from="1558525951297" duration="95000" />
+      <workItem from="1558622453704" duration="68000" />
+      <workItem from="1558753397010" duration="604000" />
+      <workItem from="1558969147116" duration="45000" />
+      <workItem from="1559084269798" duration="31000" />
+      <workItem from="1559257738045" duration="168000" />
+    </task>
+    <task id="LOCAL-00001" summary="tianjian">
+      <created>1558243304184</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1558243304184</updated>
+    </task>
+    <task id="LOCAL-00002" summary="默认的">
+      <created>1558243380011</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1558243380011</updated>
+    </task>
+    <task id="LOCAL-00003" summary="默认的">
+      <created>1558311167284</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1558311167284</updated>
+    </task>
+    <task id="LOCAL-00004" summary="默认的">
+      <created>1558311646256</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1558311646256</updated>
+    </task>
+    <task id="LOCAL-00005" summary="默认的">
+      <created>1558364546021</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1558364546021</updated>
+    </task>
+    <task id="LOCAL-00006" summary="默认的">
+      <created>1558452611894</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1558452611894</updated>
+    </task>
+    <task id="LOCAL-00007" summary="默认的">
+      <created>1558478775875</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1558478775875</updated>
+    </task>
+    <task id="LOCAL-00008" summary="字符串学习">
+      <created>1558622484159</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1558622484159</updated>
+    </task>
+    <task id="LOCAL-00009" summary="学习笔记">
+      <created>1558753958503</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1558753958503</updated>
+    </task>
+    <task id="LOCAL-00010" summary="字符串学习">
+      <created>1558753975208</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1558753975208</updated>
+    </task>
+    <task id="LOCAL-00011" summary="字符串学习">
+      <created>1558754000557</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1558754000557</updated>
+    </task>
+    <task id="LOCAL-00012" summary="字符串学习">
+      <created>1558969171928</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1558969171928</updated>
+    </task>
+    <task id="LOCAL-00013" summary="python学习笔记">
+      <created>1559084297932</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1559084297932</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2568000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33306387" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3285968" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" visible="true" weight="0.3285968" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.36412078" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="11" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="tianjian" />
+    <MESSAGE value="默认的" />
+    <MESSAGE value="学习笔记" />
+    <MESSAGE value="字符串学习" />
+    <MESSAGE value="python学习笔记" />
+    <option name="LAST_COMMIT_MESSAGE" value="python学习笔记" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Jcchervy$01_python.coverage" NAME="01.python基础练习 Coverage Results" MODIFIED="1559257852882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/study/today" />
+    <entry file="file://$PROJECT_DIR$/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study/1.变量.ipynb" />
+    <entry file="file://$PROJECT_DIR$/study/2.运算符.ipynb" />
+    <entry file="file://$PROJECT_DIR$/practice/01.python基础练习">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
